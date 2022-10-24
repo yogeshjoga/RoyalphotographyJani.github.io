@@ -1,7 +1,7 @@
 # aStoryByMr.Jani
 # My Photography 
 
-<a href="https://jani6464.github.io/RoyalPhotography.github.io/">Click Me</a>
+<a href="https://royalphotographyjani.github.io/">Click Me</a>
 
 
 
@@ -13,7 +13,7 @@
 **JANI6464/jani6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 To Get My Portfolio :
-<a href="https://jani6464.github.io/RoyalPhotography.github.io/">Click Me</a>
+<a href="https://royalphotographyjani.github.io/">Click Me</a>
 
 Here are some ideas to get you started:
 
