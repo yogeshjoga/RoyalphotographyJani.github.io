@@ -1,3 +1,3 @@
-# RoyalPhotography.github.io
-I am photographer
-hello this is jani
+# aStoryByMr.Jani
+# My Photography 
+hello this me
